@@ -2,7 +2,7 @@
 
 ## Steps to Install
 
-git clone github.com/Ravi279/pet_care.git
+git clone https://github.com/Ravi279/pet_care.git
 
 bundle install
 
